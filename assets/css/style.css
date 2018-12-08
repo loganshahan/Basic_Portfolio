@@ -4,12 +4,14 @@ body{margin: 0;
 
 header{background: #ffff;
     border-bottom: #cccccc;
+    border-bottom-style: solid;
+    height: 42px;
     
 
 }
 
 nav{float: right;
-    margin: 0 300px 0 0;
+    margin: 0 290px 0 0;
 }
 input{width: 100%;
 }
@@ -25,8 +27,8 @@ nav a{
 
 }
 
-.logo{padding: 0;
-    margin: 0 0 0 300px;
+.logo{padding: 10px;
+    margin: 0 0 0 290px;
    font-family: 'Georgia', Times, Times New Roman, serif;
    font-size: 25px;
    line-height: 150%;
@@ -53,7 +55,7 @@ aside {
     margin: 0 auto;
     text-decoration-color: gray;
     background: white;
-    border: 1px solid gray;
+    border: 1px solid grey;
     width: 960px;
 
 }
@@ -62,16 +64,22 @@ aside {
     height: 100px;
     margin-right: 10px;
 }
-p{color: gray;
+p{color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 
 }
+label{color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;}
 button{
     padding: 5px;
     background-color: #4aaaa5;
     color: white;
+    font: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 
 }
-form{padding: 10px}
+form{padding: 10px
+    font:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
 
 #img1{
     margin: 10px;
@@ -117,6 +125,8 @@ footer{background: #666666;
     border-color: #4aaaa5;
     margin: 200px 0 0 0;
     padding: 20px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
 }
   
 .image-container-1{
@@ -139,6 +149,7 @@ footer{background: #666666;
                 width: 100%;
                 padding: 15px 0;
                 text-align: center;
+                font-family: Georgia, 'Times New Roman', Times, serif
 
             }
 .image-container-2{
