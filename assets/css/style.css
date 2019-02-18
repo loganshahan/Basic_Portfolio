@@ -127,7 +127,7 @@ form{padding: 10px;
 
   
 .image-container-1{
-    background-image: url('../images/deutschland.jpeg');
+    background-image: url('../images/barley.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
@@ -151,7 +151,7 @@ form{padding: 10px;
 
             }
 .image-container-2{
-    background-image: url('../images/screen.jpeg');
+  background-image: url("http://cdn.playbuzz.com/cdn/35910209-2844-45c0-b099-f4d82878d54f/00261fda-4062-4096-81fd-8cf96b9034e8.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
@@ -162,7 +162,7 @@ form{padding: 10px;
     float: left;
 }
 .image-container-3{
-    background-image: url('../images/games.jpeg');
+  background-image: url('https://stmed.net/sites/default/files/dallas-cowboys-wallpapers-31003-1576803.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
@@ -173,7 +173,7 @@ form{padding: 10px;
     float: left;
 }
 .image-container-4{
-    background-image: url('../images/games2.jpeg');
+  background-image: url('https://asunow.asu.edu/sites/default/files/beer-pour-video.png');
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
@@ -184,7 +184,7 @@ form{padding: 10px;
     float: left;
 }
 .image-container-5{
-    background-image: url('../images/headphones.jpeg');
+  background-image: url('https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Pro_Football_Hall_of_Fame_logo.svg/1200px-Pro_Football_Hall_of_Fame_logo.svg.png');
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
